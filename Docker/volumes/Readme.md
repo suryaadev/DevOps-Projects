@@ -13,6 +13,8 @@ directly binding host folder with container
 $ docker run -itd --name <cotainer_name> -v <host_file_path>:<container_path> <image_name>
 ```
 
+</br>
+
 ![image](https://github.com/suryaadev/DevOps-Projects/assets/47253310/6092ce96-1b23-450c-a104-87d0bba98208)
 
 ![image](https://github.com/suryaadev/DevOps-Projects/assets/47253310/7a305ee0-cdd9-4565-b117-85366bbfe5e8)
