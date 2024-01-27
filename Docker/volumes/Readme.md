@@ -17,6 +17,10 @@ $ docker run -itd --name <cotainer_name> -v <host_file_path>:<container_path> <i
 
 ![image](https://github.com/suryaadev/DevOps-Projects/assets/47253310/6092ce96-1b23-450c-a104-87d0bba98208)
 
+</br>
+> data is persisting between host and container
+
+
 ![image](https://github.com/suryaadev/DevOps-Projects/assets/47253310/7a305ee0-cdd9-4565-b117-85366bbfe5e8)
 
 ![image](https://github.com/suryaadev/DevOps-Projects/assets/47253310/a85a8263-2ade-4d8b-98fe-78c2af87b82c)
